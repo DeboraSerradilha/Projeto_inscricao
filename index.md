@@ -18,7 +18,7 @@ const mensagem = 'Oi, tudo bem?'
 // tipos de dados
   //number
   // string
-// funcao
+  // funcao
 alert(mensagem)
 
 => //arrow
